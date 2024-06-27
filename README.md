@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,6 @@ Currently, two official plugins are available:
 =======
 # Password-Manager
 >>>>>>> origin/main
+=======
+# password
+>>>>>>> afe2ef9ce970e87b6cd43508e4108bd123a5b9ba
